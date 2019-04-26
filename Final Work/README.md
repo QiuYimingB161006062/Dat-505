@@ -1,6 +1,8 @@
 # Final Work
 Since I was young, I have been dreaming of traveling in space and appreciating the vastness of the universe, so I made this work of art. However, due to the limited technology, it did not achieve the desired effect.I used the following functions, such as first person control, sound, defining internal and external luminescence and color, randomly selecting textures and generating spheres，etc.
 
+My Github link:https://github.com/QiuYimingB161006062/Dat-505
+Name:QiuYiming NUA Student ID:B161006062
 # Usage
 
 
